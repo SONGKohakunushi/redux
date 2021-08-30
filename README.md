@@ -7,7 +7,7 @@
    * A component has state that needs to be readily available to other components - sharing
    * A component needs to change the state of another component - communication
 
-**The notes will be based on a step-by-step rewriting of the react approach to redux for a project and contain many details and conceptual content**
+**The notes will be based on a step-by-step rewriting a project from react to redux and contain many details and concepts **
         
 ### redux the three core concepts
 #### action
