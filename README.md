@@ -28,3 +28,4 @@
         * getState()
         * dispatch(action)
         * subscribe(listener)
+## in the file note.md to record the process of coding and ideas
