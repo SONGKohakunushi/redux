@@ -1,4 +1,4 @@
-## this is final version,and avoid redundant and repeat content, if u want to check details of knowledge, u can look other part of files including every steps and knowledge 
+## this is note for final version, avoid redundant and repeat content, if u want to check details of knowledge, u can look other part of files including every steps and knowledge 
 
 # create count component
 ```js
